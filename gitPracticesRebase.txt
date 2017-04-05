@@ -8,3 +8,8 @@ commit5
 
 changes added to my branch
 
+test3
+test4
+schimbare mesaj1234
+test1
+test2
